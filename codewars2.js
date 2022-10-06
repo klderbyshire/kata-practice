@@ -10,6 +10,7 @@
 
 // The second value in the first integer array is 0, since the bus is empty in the first bus stop.
 
+
 // create a count variable
 // using for loop add and subtract each integer on each sub-array
 // returns the final count
