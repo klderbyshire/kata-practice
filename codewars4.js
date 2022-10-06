@@ -3,5 +3,5 @@
 // The order of the sequence has to stay the same.
 
 function distinct(a) {
-    return [...new Set(a)];
+  return [...new Set(a)];
 }
